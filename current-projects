@@ -1,0 +1,62 @@
+# Current Projects
+
+## Writer Agent Deployment
+- **What:** Building and deploying Writer AI agents across ~12+ marketing teams at Comcast
+- **Status:** In progress — targeting 38+ agents deployed in next 6 months with validated ROI
+- **Samson's role:** Lead — evaluation, build, rollout
+- **Key collaborators:** Marcel (lead analyst, building and demoing), marketing team stakeholders, Chennai team (onboarding)
+- **What 'done' looks like:** 38+ agents deployed, validated ROI numbers (not estimates), business transformation story packaged and traveling at SVP level without Samson pushing it. Teams pulling — requesting agents because they've seen results elsewhere.
+- **Priority:** Highest
+
+## Adobe GenStudio Rollout
+- **What:** Rolling out Adobe GenStudio for variant generation and creative insights across marketing
+- **Status:** In progress
+- **Samson's role:** Lead
+- **Key collaborators:** Adobe (external syncs), marketing teams
+- **What 'done' looks like:** Email channel cleared, meta variant gap closed, at least one marketing team actually acting on creative insights (not just a dashboard no one looks at). Organizational readiness is the hard part.
+- **Priority:** High
+- **What keeps Samson up at night:** The organizational readiness piece — "The tech will be fine. It's the human side that's hard."
+
+## Platform Integration
+- **What:** Connecting AI tooling into existing marketing platforms — Workfront, Figma, Adobe
+- **Status:** In progress
+- **Samson's role:** Lead — architecture and integration strategy
+
+## Marketing Workflow Transformation
+- **What:** Moving Comcast marketing from manual/agency-dependent workflows to AI-native, agentic ones
+- **Status:** In progress (overarching initiative)
+- **Samson's role:** Center of Excellence lead
+- **Longer-term evolution:** Transition from AI enablement to an in-house AI Production Studio that owns content creation directly, starting with social (Instagram, TikTok)
+
+## Chennai Team Onboarding
+- **What:** Getting the Chennai team onboarded and shipping so Samson is no longer the bottleneck
+- **Status:** In progress
+- **What 'done' looks like:** Chennai team shipping independently; Marcel running technical side largely on his own
+- **Priority:** High — key to scaling
+
+## MCP Server Project (Personal/Cross-cutting)
+- **What:** Building a personal context system (MCP server) that runs across Samson's tools so he's not re-introducing himself to every AI he opens
+- **Status:** Active — this conversation is part of the build
+- **Priority:** Active personal project
+
+## Safe Home (Personal → Potential Comcast Product)
+- **What:** Privacy-first, on-premise AI for households. Runs on Ollama, Open Web UI, and Docker on a Raspberry Pi. Started as personal tinkering project, now being considered as a real Comcast product.
+- **Status:** Technical feasibility proven at home; pitched internally. Took it to Lab Week (a ~2-week internal hackathon) and worked with internal engineers to build a prototype.
+- **Samson's role:** Creator / inventor — proved concept on own time, then brought it inside. Now a secondary project with an adjacent team.
+- **Key tech:** Ollama, Open Web UI, Docker, Raspberry Pi
+- **Priority:** Secondary — not a core priority for Samson; being carried forward by an adjacent team
+
+## Svenson Labs (Personal)
+- **What:** Samson's personal "openclaw team of agents" — an umbrella for experimental projects exploring what's possible without enterprise constraints
+- **Status:** Active, ongoing — goal is to have at least one thing live within 6 months
+- **Focus areas:** Weather prediction markets, picking sports underdogs, money-making opportunities, sports, coaching opportunities
+- **Samson's role:** Solo founder/builder
+- **Time investment:** 2-4 hours most evenings after putting son to bed
+
+## Children's Storytelling YouTube Channel (Personal, under Svenson Labs)
+- **What:** AI-generated children's stories — visuals, narration, and music with a strong human editorial layer. Exploring how to scale creative, educational content without losing the soul.
+- **Status:** Active — first episodes targeted within 6 months
+- **Samson's role:** Creator — editorial direction, AI tool orchestration
+- **Key tools:** ElevenLabs, Sora, Runway
+- **Motivation:** Personally tied to teaching his son new things; also a low-stakes sandbox for evaluating the same tools he uses professionally
+- **Priority:** Active personal project
