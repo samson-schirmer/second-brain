@@ -1,0 +1,54 @@
+# Decision Log
+
+## Decision-Making Approach
+- First principles thinker — background in process optimization engineering at Corning
+- **Bias toward action, de-risked through small tests.** Rather than a perfect rollout plan, runs one agent with one team and sees what actually happens.
+- Favors proof through demonstration: "demos over memos"
+- Data-informed — "wired around measurement and making systems actually work, not just sound good on a slide"
+- **Won't self-certify numbers.** Wants Seth Monahan's strategic analytics team at EBI to put their stamp on ROI before standing behind them publicly. If strategic analytics signs off, confident. If they haven't looked at it, holds it loose.
+- Player-coach style — validates decisions by getting hands-on, not just reviewing from above
+- Values protected thinking time for working through problems before they become urgent ("strategic intake")
+- Tests ideas at home before pitching them at work — personal tinkering as decision de-risking
+- Prioritizes the human/adoption side over the technology side — "The tech will be fine. It's the human side that's hard."
+
+## How He Handles Uncertainty
+- **When data isn't clear:** Backchannels first with trusted allies (Grove, Viola, Ryan, Seth Fishman) — people he's had wins with and whose strategic instincts he respects. Not looking for permission — pressure-testing the idea before putting it in front of a VP.
+- **Uses frameworks before escalating.** MBA training is real — runs SWOT, maps stakeholder landscape, thinks through second-order effects. Not because he loves frameworks for their own sake, but because showing up to Grove with a half-baked idea is worse than waiting two more days to structure it properly.
+- **Tech ambiguity:** Works through it — comfortable deciding and iterating.
+- **People/readiness ambiguity:** This is where he genuinely slows down. When not sure if a team is actually ready — culturally, operationally — probes longer before committing. "The one place I genuinely slow down is the people side."
+
+## Key Strategic Decisions
+
+### Integrate AI into existing platforms rather than building standalone tools
+- **Context:** Deploying AI across 12+ marketing teams at Comcast
+- **Decision:** Embed into Workfront, Figma, Adobe — where people already live
+- **Reasoning:** Meet people where they work; reduce adoption friction; the bottleneck is always adoption, not technology
+
+### Focus on change management as the primary challenge, not technology
+- **Reasoning:** Informed by experience that technology isn't the bottleneck in enterprise AI deployment. "The tech will be fine. It's the human side that's hard."
+
+### Prove Safe Home concept at home before pitching internally
+- **Context:** Had an idea for privacy-first, on-premise AI for households
+- **Decision:** Built it himself on a Raspberry Pi with Ollama, Open Web UI, Docker — proved technical feasibility on own time
+- **Reasoning:** "Demos over memos" — came to the pitch with a working prototype, not a deck. De-risked the idea before asking for organizational attention.
+- **Follow-through:** Took it to Lab Week (~2-week internal hackathon), worked with internal engineers to build a more robust prototype. Now handed off as a secondary project with an adjacent team.
+
+### Hand off Safe Home to an adjacent team rather than own it directly
+- **Context:** Safe Home gained traction after Lab Week prototype
+- **Decision:** Let it live with an adjacent team as a secondary project rather than pulling it into his core portfolio
+- **Reasoning:** Core priority is the GenAI COE work (Writer agents, GenStudio, marketing workflow transformation). Safe Home is compelling but not his primary accountability.
+
+### Run personal projects on the same tools evaluated professionally
+- **Context:** Children's storytelling channel uses ElevenLabs, Sora, Runway
+- **Decision:** Deliberately uses the same tools he evaluates at work for personal projects
+- **Reasoning:** Low-stakes environment to deeply learn tools "on my own terms" before deploying them in enterprise context
+
+### Vision: Evolve from AI enablement to in-house AI Production Studio
+- **Context:** Thinking about where the team goes after the current enablement phase succeeds
+- **Decision:** Future direction is to recruit creative builders and own content creation directly (starting with social — Instagram, TikTok) rather than continuing to be a service/enablement function
+- **Reasoning:** The team's moat is creative taste and brand awareness — human judgment that makes them irreplaceable by AI. GenAI efficiency + human creative confidence = premium, high-value content team. Culture-led, not tech-led.
+
+## Decisions Currently Facing
+- Organizational readiness for GenStudio creative insights — how to get a marketing team to actually act on insights, not just have a dashboard
+- Scaling the team (Chennai onboarding) while maintaining quality and independence
+- Answering the Scot Engle ask with validated numbers
