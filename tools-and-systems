@@ -1,0 +1,28 @@
+# Tools & Systems
+
+## Core Work Platforms (Daily/Regular Use)
+- **Writer** — AI agent platform, building agents for marketing teams
+- **Adobe GenStudio** — variant generation and creative insights
+- **Workfront** — marketing project/workflow management (where teams already live)
+- **Figma** — design collaboration (where teams already live)
+- **Adobe Creative Suite** — creative tooling (where teams already live)
+- **MS Teams** — reactive communication, team unblocking
+- **Outlook** — email
+
+## Personal / Tinkering Stack
+- **Ollama** — local LLM runtime (used for Safe Home project, general tinkering)
+- **Open Web UI** — local LLM frontend
+- **Docker** — containerization for local AI setups
+- **Raspberry Pi** — hardware for on-premise AI experiments (Safe Home)
+- **ElevenLabs** — AI voice/narration (used for children's storytelling channel; also evaluated professionally)
+- **Sora** — AI video generation (storytelling channel)
+- **Runway** — AI video generation (storytelling channel)
+- **Node-based tooling** — general exploration
+- **Edge AI** — personal exploration area
+
+## Information Intake
+- AI daily brief (podcast/audio — morning commute)
+
+## Key Principles
+- Integrate AI into existing tools over introducing new destinations
+- Personal tinkering directly feeds professional tool evaluation — tools like ElevenLabs, Sora, Runway get tested on personal projects before or alongside enterprise evaluation
