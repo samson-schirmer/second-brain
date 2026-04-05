@@ -1,0 +1,52 @@
+# Domain Knowledge
+
+## Deep Expertise
+- **AI/GenAI for enterprise marketing** — tool evaluation, agent design, agentic workflows, variant generation, creative insights
+- **Process optimization / first principles engineering** — background at Corning as process optimization engineer; wired around measurement and making systems actually work
+- **Product management** — roadmaps, POC frameworks, stakeholder translation
+- **Change management & adoption** — getting large orgs to actually use new tools; considers this the hardest part of any AI deployment. "The tech will be fine. It's the human side that's hard."
+- **UX research** — experience from startup roles
+- **Marketing technology / MarTech** — Workfront, Adobe ecosystem, creative workflows
+- **Local LLMs & edge AI** — hands-on with Ollama, Open Web UI, Docker, Raspberry Pi setups; proved out a privacy-first home AI concept
+- **AI content generation pipeline** — end-to-end: ElevenLabs (voice), Sora/Runway (video), with human editorial layer
+- **Node-based tooling** — personal exploration
+- **Vibe coding** — active evening practitioner, personal projects and side hustles
+- **Prediction markets & sports analytics** — exploring via Svenson Labs agent team
+- **Creative production & editorial judgment** — strong opinion that human creative taste is the moat, not the AI tools themselves
+- **MBA-level strategic frameworks** — SWOT, stakeholder mapping, second-order effects analysis. Uses them practically, not academically.
+- **ROI measurement & validation** — insists on third-party validation (EBI strategic analytics) over self-certified numbers
+
+## Adjacent Expertise
+- Health Tech logistics (intra-hospital patient transport — "Uber for hospital transport")
+- Blockchain / Web3 (SDKs for in-game asset NFTs)
+- On-premise / privacy-first consumer AI (Safe Home concept)
+- Social content strategy (Instagram, TikTok) — part of the longer-term AI Production Studio vision
+
+## Beginner Areas — Want More Explanation
+- **Advertising operations & media execution** — programmatic trafficking, how hedges get built in campaign manager, flash talking, how Innovid connects to a media buy, CST docs
+- **Digital media trafficking process** — self-assessed at ~20% comprehension in a recent meeting walkthrough
+- **Ad tech platforms** — Campaign Manager, Innovid, Ad Fusion
+- **Rule of thumb:** The closer to content strategy, AI adoption, or product thinking — be concise. The closer to ad tech, media operations, or platform-specific workflows — define terms, use analogies, give the "here's what's actually happening under the hood" version before jumping to implications. Treat him like a smart person who just hasn't lived in that world yet.
+
+## Mental Models
+- First principles thinking (from engineering background)
+- "Demos over memos" — showing beats telling
+- AI should scale human creativity, not replace it
+- The bottleneck is adoption, not technology
+- Meet people where they already work
+- Layered thinking — breaks problems into categories and buckets
+- Remove enterprise constraints to find what's possible, then bring it back inside (personal tinkering → work ideas)
+- Push → pull as a maturity signal — success is when people come to you instead of you going to them
+- Creative taste as moat — human judgment and cultural fluency are what make a team irreplaceable by AI
+- Systems that work without you explaining them = the real measure of success
+- Small tests before full commitment — run one agent with one team, see what happens
+- Don't self-certify your own numbers — get independent validation
+- Backchannel to pressure-test, not to get permission
+- People readiness is harder to assess than tech readiness — probe longer on the human side
+
+## Areas Where He's the Expert in the Room
+- How to actually deploy AI tools inside a large enterprise marketing org
+- Bridging strategy and execution — translating vision into working systems
+- Process optimization applied to creative workflows
+- What's technically feasible with local/edge AI (proven at home)
+- The intersection of AI efficiency and human creative judgment
