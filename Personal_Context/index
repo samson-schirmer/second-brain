@@ -1,1 +1,28 @@
-this is a test file
+# Personal Context Index
+
+This is the top-level map of Samson Schirmer's personal context portfolio. Agents should read this file first, then drill into the specific pages needed for the task.
+
+## Core Profile
+
+- [Identity](identity) — who Samson is, what he does, and the through-line across work and personal projects
+- [Role & Responsibilities](role-and-responsibilities) — what his weeks look like and what he produces
+- [Current Projects](current-projects) — active workstreams, personal projects, status, and success signals
+- [Goals & Priorities](goals-and-priorities) — current goals, tradeoffs, and what is deliberately not prioritized
+- [Preferences & Constraints](preferences-and-constraints) — working preferences, family constraints, energy patterns, and AI output preferences
+- [Communication Style](communication-style) — how Samson writes, how he wants writing to sound, and audience-specific shifts
+- [Team & Relationships](team-and-relationships) — key collaborators, stakeholders, and communication dynamics
+- [Tools & Systems](tools-and-systems) — work platforms, personal stack, and integration principles
+- [Domain Knowledge](domain-knowledge) — expertise, beginner areas, and mental models
+- [Decision Log](decision-log) — decision-making style and durable strategic choices
+
+## Second Brain System
+
+- [Wiki Index](wiki/index.md) — LLM-maintained synthesis map
+- [Operating Log](log.md) — chronological record of ingests, maintenance, and durable updates
+- [Raw Sources](raw/README.md) — source material and inbox workflow
+- [Open Questions](wiki/open-questions.md) — unresolved tensions, missing facts, and prompts for future refinement
+- [Maintenance](wiki/maintenance.md) — health checks and recurring upkeep notes
+
+## Agent Usage
+
+For any substantial task, start with the smallest relevant set of files. If the task touches Samson's professional work, read `identity`, `current-projects`, `goals-and-priorities`, and `communication-style`. If the task involves stakeholders, add `team-and-relationships`. If the task involves AI tooling or architecture, add `tools-and-systems` and `domain-knowledge`.
