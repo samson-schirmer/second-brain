@@ -13,6 +13,8 @@ This is the maintained synthesis layer of Samson's second brain. It should grow 
 
 Source notes live in `sources/`. Each source note should summarize the source, extract durable facts, list affected pages, and link back to the raw source path when possible.
 
+- [Writer executive recap email revision](sources/2026-05-22-writer-executive-recap-email.md) — executive recap tone and structure example, captured 2026-05-22.
+
 ## Indexing Rules
 
 When adding a wiki page, add it here with:
@@ -21,4 +23,3 @@ When adding a wiki page, add it here with:
 - one-line purpose
 - last meaningful update date
 - source count if relevant
-

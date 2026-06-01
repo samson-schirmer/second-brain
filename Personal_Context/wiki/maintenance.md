@@ -26,3 +26,8 @@
 - Add templates for source notes, project pages, and weekly reviews.
 - Decide whether scheduled jobs should auto-commit every maintenance pass or only when raw inbox items exist.
 
+## [2026-06-01] Maintenance Pass
+
+- Raw inbox: empty (no new sources to ingest).
+- Wiki index: no orphan pages detected (all `Personal_Context/wiki/*.md` pages are listed in `Personal_Context/wiki/index.md`).
+- Found previously uncommitted ingest work for the 2026-05-22 Writer executive recap email source; syncing it to GitHub as part of this pass.
