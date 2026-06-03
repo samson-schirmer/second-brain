@@ -31,3 +31,10 @@
 - Raw inbox: empty (no new sources to ingest).
 - Wiki index: no orphan pages detected (all `Personal_Context/wiki/*.md` pages are listed in `Personal_Context/wiki/index.md`).
 - Found previously uncommitted ingest work for the 2026-05-22 Writer executive recap email source; syncing it to GitHub as part of this pass.
+
+## [2026-06-03] Maintenance Pass
+
+- Raw inbox: empty (`Personal_Context/raw/inbox/` contains only `.gitkeep`).
+- Worktree: clean before edits (`git status --short` returned no tracked or untracked changes).
+- Wiki coverage: no orphan wiki pages detected; `Personal_Context/wiki/index.md` still covers the maintained synthesis pages, and the processed source note remains registered.
+- Temporal drift risk: several profile pages still use floating time references such as "next 6 months" and "this quarter" without a fresh dated source. No profile text was rewritten during this pass because the repo does not yet contain newer source material to safely re-anchor those claims.
