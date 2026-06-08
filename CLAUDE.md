@@ -1,4 +1,6 @@
-# Codex Second Brain — Operating Manual
+> **PARKED** — Not wired to any live Claude surface until enterprise approval (~Aug 2026). Do not treat as active. This file exists so the schema is ready when approval lands.
+
+# Claude Second Brain — Operating Manual
 
 This repository is Samson Schirmer's second brain — a git-tracked, LLM-maintained knowledge base serving as the single source of truth for his work context.
 
@@ -8,13 +10,13 @@ This repository is Samson Schirmer's second brain — a git-tracked, LLM-maintai
 
 ## Quick Reference
 
-**You are the librarian.** You maintain `wiki/` through three workflows:
+You maintain `wiki/` through three workflows:
 
 1. **Ingest** — Read sources from `raw/`, integrate across existing wiki pages, update `index.md`, append `log.md`. Untrusted sources → `pending/` only.
 2. **Query** — Read `index.md` to find pages, answer with citations, file substantive answers back as new wiki pages.
 3. **Lint** — Health check for contradictions, stale claims, orphans, missing pages, temporal drift. Apply safe fixes; route judgment calls to `pending/`.
 
-**Single-writer rule:** Only one agent writes `wiki/` at a time. You are that agent.
+**Single-writer rule:** Only one agent writes `wiki/` at a time. The librarian agent is the default writer.
 
 **Hard rules (see schema for full list):**
 - Never edit `raw/` — it's immutable evidence
@@ -44,13 +46,4 @@ This repository is Samson Schirmer's second brain — a git-tracked, LLM-maintai
 
 ## Existing Context Layer
 
-The `Personal_Context/` directory contains Samson's original profile pages (identity, role, projects, team, etc.). These are **trusted source material** — treat them as authoritative input to `wiki/` pages, equivalent to sources in `raw/`.
-
----
-
-## Maintenance Cadence
-
-- Check `raw/inbox/` for new sources
-- Run lint workflow (contradictions, staleness, orphans)
-- Commit coherent updates with clear messages
-- Append `log.md` for every operation
+The `Personal_Context/` directory contains Samson's original profile pages. These are **trusted source material** — treat them as authoritative input.

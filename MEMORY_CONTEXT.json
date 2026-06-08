@@ -1,0 +1,183 @@
+{
+  "_meta": {
+    "last_updated": "2026-06-08",
+    "version": "1.0",
+    "note": "Synthesized from existing Personal_Context profile pages. JSON holds structured state; wiki/ holds richer interlinked prose. Do not duplicate one into the other."
+  },
+  "active_workstreams": [
+    {
+      "id": "writer-agent-deployment",
+      "title": "Writer Agent Deployment",
+      "status": "in_progress",
+      "priority": "highest",
+      "owner": "Samson Schirmer",
+      "collaborators": ["Marcel", "Chennai Team", "Marketing Stakeholders"],
+      "done_signal": "38+ agents deployed, validated ROI, story traveling at SVP level without push"
+    },
+    {
+      "id": "adobe-genstudio-rollout",
+      "title": "Adobe GenStudio Rollout",
+      "status": "in_progress",
+      "priority": "high",
+      "owner": "Samson Schirmer",
+      "collaborators": ["Adobe"],
+      "done_signal": "Email channel cleared, meta variant gap closed, at least one team acting on creative insights"
+    },
+    {
+      "id": "platform-integration",
+      "title": "Platform Integration (Workfront, Figma, Adobe)",
+      "status": "in_progress",
+      "priority": "medium",
+      "owner": "Samson Schirmer"
+    },
+    {
+      "id": "marketing-workflow-transformation",
+      "title": "Marketing Workflow Transformation",
+      "status": "in_progress",
+      "priority": "high",
+      "owner": "Samson Schirmer",
+      "note": "Overarching initiative encompassing all others"
+    },
+    {
+      "id": "chennai-onboarding",
+      "title": "Chennai Team Onboarding",
+      "status": "in_progress",
+      "priority": "high",
+      "owner": "Samson Schirmer",
+      "collaborators": ["Marcel", "Chennai Team"],
+      "done_signal": "Team shipping independently; Marcel running technical side on his own"
+    },
+    {
+      "id": "svenson-labs",
+      "title": "Svenson Labs",
+      "status": "active",
+      "priority": "personal",
+      "owner": "Samson Schirmer",
+      "focus_areas": ["prediction markets", "sports underdogs", "children's storytelling", "coaching"],
+      "done_signal": "At least one thing live within 6 months"
+    },
+    {
+      "id": "mcp-server-project",
+      "title": "MCP Server / Second Brain",
+      "status": "active",
+      "priority": "personal",
+      "owner": "Samson Schirmer",
+      "done_signal": "Not re-introducing himself to every AI he opens"
+    }
+  ],
+  "team": [
+    {
+      "name": "Eph",
+      "role": "Director / Manager",
+      "relationship": "Direct manager, peer-to-peer dynamic",
+      "interaction": "Weekly 1:1"
+    },
+    {
+      "name": "Marcel",
+      "role": "Lead Analyst",
+      "relationship": "Player-coach; handles technical implementation, custom Firefly work, integrations",
+      "interaction": "Weekly 1:1"
+    },
+    {
+      "name": "Grove",
+      "role": "VP (skip-level)",
+      "relationship": "Trusted ally; requires most preparation",
+      "interaction": "Monthly structured update"
+    },
+    {
+      "name": "Ryan Craig",
+      "role": "SVP",
+      "relationship": "Challenger; pushes hard, invests in careers",
+      "interaction": "Quarterly"
+    },
+    {
+      "name": "Scot Engle",
+      "role": "EVP",
+      "relationship": "Executive sponsorship; has a specific 'ask' Samson is working to answer",
+      "interaction": "Quarterly"
+    },
+    {
+      "name": "Viola",
+      "role": "Trusted Ally / Direct Leader",
+      "relationship": "Backchannel for pressure-testing ideas",
+      "interaction": "As needed"
+    },
+    {
+      "name": "Seth Fishman",
+      "role": "Market Readiness Gut Check (Content/Social)",
+      "relationship": "Validation layer for content/social plays",
+      "interaction": "As needed"
+    },
+    {
+      "name": "Seth Monahan",
+      "role": "Data Credibility Layer (EBI Strategic Analytics)",
+      "relationship": "ROI validation stamp; Samson won't stand behind numbers without his sign-off",
+      "interaction": "Validation checkpoints"
+    },
+    {
+      "name": "Chennai Team",
+      "role": "Extended team (onboarding)",
+      "relationship": "Scaling capacity",
+      "interaction": "Onboarding phase"
+    },
+    {
+      "name": "Abbey",
+      "role": "TODO: role/focus to be defined",
+      "relationship": "TODO",
+      "interaction": "TODO"
+    }
+  ],
+  "decisions": {
+    "log": [
+      {
+        "decision": "Integrate AI into existing platforms rather than building standalone tools",
+        "reasoning": "Meet people where they work; reduce adoption friction"
+      },
+      {
+        "decision": "Focus on change management as the primary challenge, not technology",
+        "reasoning": "Technology isn't the bottleneck in enterprise AI deployment"
+      },
+      {
+        "decision": "Prove Safe Home at home before pitching internally",
+        "reasoning": "Demos over memos — came to pitch with working prototype"
+      },
+      {
+        "decision": "Hand off Safe Home to adjacent team",
+        "reasoning": "Core priority is GenAI COE; Safe Home is compelling but not primary accountability"
+      },
+      {
+        "decision": "Run personal projects on same tools evaluated professionally",
+        "reasoning": "Low-stakes environment to deeply learn tools before enterprise deployment"
+      },
+      {
+        "decision": "Vision: evolve from AI enablement to in-house AI Production Studio",
+        "reasoning": "Moat is creative taste and brand awareness — human judgment irreplaceable by AI"
+      }
+    ],
+    "currently_facing": [
+      "Organizational readiness for GenStudio creative insights",
+      "Scaling team (Chennai) while maintaining quality",
+      "Answering the Scot Engle ask with validated numbers"
+    ]
+  },
+  "vendors": [
+    { "name": "Writer.ai", "purpose": "AI copy generation; 21+ agents deployed" },
+    { "name": "Adobe Firefly", "purpose": "Image/video generation with custom brand models" },
+    { "name": "Adobe GenStudio", "purpose": "Content supply chain and activation" },
+    { "name": "Workfront", "purpose": "Project management and ADLC tracking" },
+    { "name": "Figma", "purpose": "Design collaboration" },
+    { "name": "Adobe Creative Suite", "purpose": "Production-side creative work" },
+    { "name": "Microsoft Forms", "purpose": "Automated intake for agent requests" },
+    { "name": "Power Automate / Workfront Fusion", "purpose": "Process automation" },
+    { "name": "Microsoft Teams", "purpose": "Collaboration and bot deployment" }
+  ],
+  "email": {
+    "_meta": {
+      "lifecycle": {
+        "retention_days_after_resolved": 7,
+        "auto_stale_after_days": 14,
+        "purge_resolved": true
+      }
+    }
+  }
+}

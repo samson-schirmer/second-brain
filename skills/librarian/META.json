@@ -1,0 +1,26 @@
+{
+  "name": "librarian",
+  "description": "Maintains a git-tracked personal knowledge base (second brain) through ingest, query, and lint workflows. Single-writer discipline on wiki/ directory.",
+  "version": "1.0.0",
+  "inputs": {
+    "workflow": {
+      "type": "string",
+      "enum": ["ingest", "query", "lint"],
+      "description": "Which workflow to execute"
+    },
+    "source": {
+      "type": "string",
+      "description": "For ingest: path to source material. For query: the question to answer.",
+      "optional": true
+    }
+  },
+  "outputs": {
+    "summary": "Brief description of what was done",
+    "files_modified": "List of files created or updated",
+    "log_entry": "The log.md entry appended"
+  },
+  "requires": {
+    "read": ["schema/WIKI_SCHEMA.md", "index.md", "log.md", "MEMORY_CONTEXT.json"],
+    "write": ["wiki/", "index.md", "log.md", "pending/"]
+  }
+}
