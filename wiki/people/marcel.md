@@ -3,10 +3,11 @@ title: Marcel
 type: person
 status: active
 created: 2026-06-08
-last_reviewed: 2026-06-08
+last_reviewed: 2026-06-10
 sources:
   - Personal_Context/team-and-relationships
   - Personal_Context/current-projects
+  - "Attached Context: Team Coordination and Updates_otter.ai.txt"
 relates_to:
   - page: "[[eph]]"
     rel: relates
@@ -15,6 +16,8 @@ relates_to:
   - page: "[[chennai-onboarding]]"
     rel: supports
   - page: "[[adobe-genstudio-rollout]]"
+    rel: supports
+  - page: "[[multicultural-translation-agent]]"
     rel: supports
 ---
 
@@ -28,4 +31,6 @@ relates_to:
 
 **Six-month goal:** Marcel running the technical side largely independently — Samson doesn't need to be in every room.
 
-**Key to:** [[writer-agent-deployment]], [[chennai-onboarding]], [[adobe-genstudio-rollout]].
+**Key to:** [[writer-agent-deployment]], [[chennai-onboarding]], [[adobe-genstudio-rollout]], [[multicultural-translation-agent]].
+
+**Current work from team coordination transcript:** Marcel is connected to Xfinity Creative / GenStudio creative workflows, multicultural agent build sessions, a Google image/translation workflow concept, and finalizing Adobe custom model workflow variant output for GenStudio.

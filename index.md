@@ -23,7 +23,14 @@ Catalog of all wiki pages. Updated on every ingest.
 - [[adobe-genstudio-rollout]] — Variant generation and creative insights rollout
 - [[chennai-onboarding]] — Getting offshore team to ship independently
 - [[marketing-workflow-transformation]] — Overarching: manual workflows → AI-native
-- [[platform-integration]] — Connecting AI into Workfront, Figma, Adobe
+- [[platform-integration]] — Connecting AI into Workfront, Figma, Adobe, Writer, and Microsoft 365
+- [[google-creative-workshop]] — Google/Comcast creative workshop prep around Velocity Studio, Creative Studio, and model access
+- [[campaign-in-a-box]] — Campaign-oriented deliverables tied to Velocity Studio and Google/EBI showcases
+- [[multicultural-translation-agent]] — Spanish translation and multicultural Writer agent with controlled stakeholder feedback
+- [[presentation-builder-playbooks]] — Writer presentation builders that need upfront story-shaping questions
+- [[writer-connectors-access]] — MCP server access path for Writer connectors into Microsoft services
+- [[sawyer-ai-rights-workstream]] — Sawyer talent waiver, agent approval, Lift Labs, and MSA extension workstream
+- [[thought-leadership-calendar]] — Talks, webinar, post, and Henry Stewart prep tied to the GenAI COE story
 - [[svenson-labs]] — Personal agent lab: prediction markets, storytelling, sports
 - [[safe-home]] — Privacy-first on-premise AI for households (handed off)
 
@@ -38,3 +45,7 @@ Catalog of all wiki pages. Updated on every ingest.
 ## Synthesis
 
 - [[overview]] — Running synthesis tying all workstreams together
+
+## Sources
+
+- [[team-coordination-and-updates-otter-transcript]] — Team coordination meeting covering GenStudio trials, Writer agents, Google workshop prep, connectors, Spanish translation, Sawyer rights, and thought leadership

@@ -47,3 +47,11 @@ Append-only record of all second-brain operations.
 - Added `.gitignore` covering secrets, credentials, OS artifacts.
 - Created `pending/.gitkeep` for untrusted-input staging area.
 - Updated `README.md` for new repo identity.
+
+## [2026-06-10] ingest | Team Coordination and Updates Otter transcript
+
+- Ingested Samson-provided team coordination transcript covering GenStudio trials, Writer agent expansion, Google workshop prep, Spanish translation governance, Writer connectors, Sawyer rights, and thought leadership planning.
+- Created source summary: `wiki/sources/team-coordination-and-updates-otter-transcript.md`.
+- Created initiative pages: `google-creative-workshop`, `campaign-in-a-box`, `multicultural-translation-agent`, `presentation-builder-playbooks`, `writer-connectors-access`, `sawyer-ai-rights-workstream`, and `thought-leadership-calendar`.
+- Updated existing pages: `adobe-genstudio-rollout`, `writer-agent-deployment`, `platform-integration`, `abbey`, `marcel`, `overview`, and `index.md`.
+- Open questions: exact meeting date and several transcript-derived names need confirmation before removing TODOs.

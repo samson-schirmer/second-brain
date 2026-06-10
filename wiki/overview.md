@@ -3,7 +3,7 @@ title: Overview
 type: concept
 status: active
 created: 2026-06-08
-last_reviewed: 2026-06-08
+last_reviewed: 2026-06-10
 sources:
   - Personal_Context/identity
   - Personal_Context/goals-and-priorities
@@ -20,10 +20,12 @@ Samson Schirmer leads the GenAI Center of Excellence inside Comcast's Marketing 
 The COE is in a **push-to-pull transition**. The core bet: if [[writer-agent-deployment]] delivers 38+ agents with validated ROI, the story travels upward on its own ([[scot-engle]] ask answered), teams start requesting agents ([[push-to-pull]]), and Samson stops being the bottleneck.
 
 **Active workstreams:**
-- [[writer-agent-deployment]] — highest priority, 21+ agents live, targeting 38+ with hard ROI numbers
-- [[adobe-genstudio-rollout]] — email channel, meta variants, creative insights that teams actually use
+- [[writer-agent-deployment]] — highest priority, 21+ agents live, targeting 38+ with hard ROI numbers; current expansion areas include [[multicultural-translation-agent]], [[presentation-builder-playbooks]], and [[writer-connectors-access]]
+- [[adobe-genstudio-rollout]] — social trials, email copy trials, Sales Burst, rewards membership, creative insights that teams actually use
+- [[google-creative-workshop]] / [[campaign-in-a-box]] — Velocity Studio and Google creative workshop prep
 - [[chennai-onboarding]] — scaling the team so the system works without Samson in every room
-- [[platform-integration]] — embedding AI into Workfront, Figma, Adobe (not standalone destinations)
+- [[platform-integration]] — embedding AI into Workfront, Figma, Adobe, Writer, and Microsoft 365 (not standalone destinations)
+- [[thought-leadership-calendar]] — packaging the COE story through talks, webinar, and Henry Stewart prep
 - [[svenson-labs]] — personal evening projects: prediction markets, storytelling, sports
 
 **Key people:**
@@ -31,6 +33,7 @@ The COE is in a **push-to-pull transition**. The core bet: if [[writer-agent-dep
 - [[marcel]] (lead analyst, builds and demos, growing toward independence)
 - [[seth-monahan]] (data credibility — nothing goes public without his stamp)
 - [[viola]], [[seth-fishman]] (backchannel pressure-testing)
+- [[abbey]] and [[marcel]] (execution coordination across Google/demo prep, GenStudio, Writer agents, and vendor follow-through)
 
 ## The Through-Line
 
