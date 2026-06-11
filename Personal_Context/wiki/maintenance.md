@@ -11,7 +11,7 @@
 ## Health Check Checklist
 
 - `Personal_Context/raw/inbox/` is empty or intentionally waiting.
-- `Personal_Context/wiki/index.md` lists all wiki pages.
+- `Personal_Context/wiki/index.md` lists all maintained wiki pages, including nested source notes under `Personal_Context/wiki/sources/`.
 - `Personal_Context/log.md` has an entry for each ingest or maintenance pass.
 - Project statuses in `current-projects` are still current.
 - Goals in `goals-and-priorities` reflect the current quarter.
@@ -38,3 +38,10 @@
 - Worktree: clean before edits (`git status --short` returned no tracked or untracked changes).
 - Wiki coverage: no orphan wiki pages detected; `Personal_Context/wiki/index.md` still covers the maintained synthesis pages, and the processed source note remains registered.
 - Temporal drift risk: several profile pages still use floating time references such as "next 6 months" and "this quarter" without a fresh dated source. No profile text was rewritten during this pass because the repo does not yet contain newer source material to safely re-anchor those claims.
+
+## [2026-06-10] Maintenance Pass
+
+- Raw inbox: empty (`Personal_Context/raw/inbox/` contains only `.gitkeep`).
+- Worktree: clean before edits (`git status --short` returned no tracked or untracked changes).
+- Wiki coverage: no orphan maintained pages detected across both `Personal_Context/wiki/*.md` and `Personal_Context/wiki/sources/*.md`; `Personal_Context/wiki/index.md` still lists the maintained synthesis pages and the processed source note.
+- Maintenance rule tightened: the checklist now explicitly requires recursive coverage for nested source-note pages so future lint passes do not treat top-level coverage as sufficient.

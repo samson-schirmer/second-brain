@@ -28,3 +28,10 @@ Append-only record of second-brain maintenance.
 - Confirmed clean worktree before edits.
 - Confirmed wiki coverage remains intact (no orphan pages under `Personal_Context/wiki/`).
 - Recorded temporal drift risk in `Personal_Context/wiki/maintenance.md` for floating claims like "next 6 months" and "this quarter" that need a newer dated source before updating profile pages.
+
+## [2026-06-10] maintenance | recursive wiki coverage check
+
+- Checked `Personal_Context/raw/inbox/`: no new sources to ingest.
+- Confirmed clean worktree before edits.
+- Expanded the maintenance definition of wiki coverage to include nested source notes under `Personal_Context/wiki/sources/`, not only top-level wiki pages.
+- Confirmed no orphan maintained pages across the current wiki and source-note set.
