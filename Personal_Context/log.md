@@ -35,3 +35,11 @@ Append-only record of second-brain maintenance.
 - Confirmed clean worktree before edits.
 - Expanded the maintenance definition of wiki coverage to include nested source notes under `Personal_Context/wiki/sources/`, not only top-level wiki pages.
 - Confirmed no orphan maintained pages across the current wiki and source-note set.
+
+## [2026-06-18] maintenance | light health check
+
+- Checked `Personal_Context/raw/inbox/`: no new sources to ingest.
+- Confirmed clean worktree before edits.
+- Confirmed no orphan maintained pages across `Personal_Context/wiki/` and `Personal_Context/wiki/sources/`.
+- Tightened `Personal_Context/wiki/maintenance.md` so time-sensitive goals require a recent dated source before maintenance rewrites floating planning language.
+- Recorded remaining temporal drift in `Personal_Context/current-projects`, `Personal_Context/goals-and-priorities`, and `Personal_Context/wiki/open-questions.md`.
