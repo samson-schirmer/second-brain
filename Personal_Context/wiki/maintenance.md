@@ -13,6 +13,7 @@
 - `Personal_Context/raw/inbox/` is empty or intentionally waiting.
 - `Personal_Context/wiki/index.md` lists all maintained wiki pages, including nested source notes under `Personal_Context/wiki/sources/`.
 - `Personal_Context/log.md` has an entry for each ingest or maintenance pass.
+- Repository navigation docs still match the actual profile filenames and extensions under `Personal_Context/`.
 - Project statuses in `current-projects` are still current.
 - Goals in `goals-and-priorities` reflect the current planning window and have a recent dated source before time-sensitive wording is refreshed.
 - Stakeholder dynamics in `team-and-relationships` are still accurate.
@@ -53,3 +54,10 @@
 - Wiki coverage: no orphan maintained pages detected across `Personal_Context/wiki/*.md` and `Personal_Context/wiki/sources/*.md`; `Personal_Context/wiki/index.md` still covers the maintained synthesis pages and the processed source note.
 - Temporal drift remains concentrated in extensionless profile files and prompts that use floating planning language such as `next 6 months` and `this quarter`, especially in `Personal_Context/current-projects`, `Personal_Context/goals-and-priorities`, and `Personal_Context/wiki/open-questions.md`.
 - Checklist wording updated so future maintenance passes require a recent dated source before refreshing time-sensitive goal language.
+
+## [2026-06-19] Maintenance Pass
+
+- Raw inbox: empty (`Personal_Context/raw/inbox/` contains only `.gitkeep`).
+- Worktree: clean before edits (`git status --short` returned no tracked or untracked changes).
+- Wiki coverage: no orphan maintained pages detected across `Personal_Context/wiki/*.md` and `Personal_Context/wiki/sources/*.md`; `Personal_Context/wiki/index.md` still covers the maintained synthesis pages and processed source note.
+- Repository drift: `Personal_Context/README.md` still lists core profile files with `.md` extensions even though the maintained profile files under `Personal_Context/` are extensionless. Recorded here as a navigation/doc consistency issue for a future targeted cleanup.
